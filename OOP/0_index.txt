@@ -147,7 +147,7 @@ result2 = shape2.area(4, 6)        # Calls Rectangle's area method
 7-> Abstraction:
 Abstraction is one of the fundamental principles of object-oriented programming (OOP) that involves hiding complex implementation details and showing only the necessary features of an object.
 
-Abstract Classes (Interfaces):
+Abstract Classes:
 -------------------------------
 *Python allows you to define abstract base classes (ABCs) using the abc module.
 *Abstract classes cannot be instantiated directly but serve as templates for other classes.
