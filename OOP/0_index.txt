@@ -93,6 +93,10 @@ II) Private Access (Encapsulation)
 
 ========================================================================================
 6-> Polymorphism
+# compileTime-> static binding-> early binding->overloading
+# runtime-> dynamic binding -> late binding -> overriding
+
+
 Ans: The term "polymorphism" in computer science and mathematics is composed of two Greek words:
 
 Poly: "Poly" means "many" or "multiple."
