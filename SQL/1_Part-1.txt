@@ -9,6 +9,9 @@
 1) Data vs Information
 Ans: Data is raw fact and A set of organize data is called information.
 ==================================================================================================================
+
+
+
 2) Database and Types of Database:
 Ans: Database: System to keep data also we can
      -keep
@@ -66,6 +69,11 @@ Cloud Database:
 Examples: Amazon Aurora, Google Cloud Firestore.
 Hosted on cloud platforms, offering scalability, flexibility, and ease of management.
 ==================================================================================================================
+
+
+
+
+
 3) Table, Record, Field,Value:
 Ans:
 Table: a set of data
@@ -94,6 +102,13 @@ For example, consider a simple "Employees" table:
 
 In this table, each cell represents a value. For instance, the value in the "FirstName" column for the first row is "John," and the value in the "Salary" column for the second row is "60000."
 ==================================================================================================================
+
+
+
+
+
+
+
 4) DBMS,RDBMS
 DBMS: 
 -data
@@ -127,6 +142,11 @@ SQLite:
 A lightweight, serverless, and self-contained RDBMS that is suitable for embedded systems, mobile applications, and scenarios where simplicity is key.
 
 ==================================================================================================================
+
+
+
+
+
 5) Key, Primary Key,Foreign Key,candidate key,composite key:
 
 Key:
@@ -161,6 +181,10 @@ It is used when a single column cannot uniquely identify records, but the combin
 Example: In a "Sales" table, a composite key could be formed by combining "ProductID" and "OrderID" to uniquely identify each sales record.
 
 ==================================================================================================================
+
+
+
+
 6) Relation
 - one to one
 - one to many
