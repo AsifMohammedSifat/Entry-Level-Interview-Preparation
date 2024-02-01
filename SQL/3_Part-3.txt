@@ -49,4 +49,12 @@ Sub Queries
         Table    
     Nested Subqueries
     Correlated Subqueries
-    
+----------------------------------------------------------------------------------
+
+Views
+    Creating Views
+    Modifying Views
+    Dropping Views
+
+----------------------------------------------------------------------------------
+
