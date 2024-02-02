@@ -59,6 +59,11 @@ Sub Queries
         Table    
     Nested Subqueries
     Correlated Subqueries
+
+----------------------------------------------------------------------------------
+
+Common Table Expression
+
 ----------------------------------------------------------------------------------
 Views
     Creating Views
