@@ -1,0 +1,4 @@
+
+Runtime Time Polymorphism -> dynamic binding / late binding / overriding
+
+Compile Time Polymorphism -> Static binding/ early binding / overloading(same name with different argument -> overloading)
