@@ -1,0 +1,19 @@
+Top 75 SQL Interview Questions and Answers
+        https://www.simplilearn.com/top-sql-interview-questions-and-answers-article
+
+Top 115 SQL Interview Questions
+        https://www.edureka.co/blog/interview-questions/sql-interview-questions
+
+1) DBMS VS RDBMS
+2) SQL VS NO SQL
+3) PRIMARY KEY VS CANDIDATE KEY
+4) 30 MCQ
+5) Practice + Revision
+
+
+Exam:
+oop : 40 ->TIME :20
+sql : 20 -> 10
+
+----------------------
+ Exam:       30min

@@ -1,0 +1,73 @@
+----------------------------------------------------------------------------------
+Data Constraints
+    Primary Key
+    Foreign Key
+    Unique
+    NOT NULL
+    CHECK
+
+----------------------------------------------------------------------------------
+Numeric Function
+    FLOOR 
+    ABS 
+    MOD
+    ROUND 
+    CEILING
+
+----------------------------------------------------------------------------------
+String Functions
+    CONCAT 
+    LENGTH
+    SUBSTRING 
+    REPLACE
+    UPPER LOWER
+
+----------------------------------------------------------------------------------
+JOIN Queries
+    INNER JOIN
+    LEFT JOIN
+    RIGHT JOIN
+    FULL OUTER JOIN
+    Self Join 
+    Cross Join
+----------------------------------------------------------------------------------
+Table Replication or Duplication
+
+----------------------------------------------------------------------------------
+IN & Between
+
+----------------------------------------------------------------------------------
+Set
+    UNION
+    UNION ALL
+    INTERSECT    
+----------------------------------------------------------------------------------
+Aggregate Queries
+    AVG 
+    MIN 
+    MAX 
+    SUM 
+    COUNT
+
+Group By and Having
+----------------------------------------------------------------------------------
+Sub Queries
+    Types of Sub Queries
+        Scalar 
+        Column
+        Row 
+        Table    
+    Nested Subqueries
+    Correlated Subqueries
+
+----------------------------------------------------------------------------------
+
+Common Table Expression
+
+----------------------------------------------------------------------------------
+Views
+    Creating Views
+    Modifying Views
+    Dropping Views
+
+----------------------------------------------------------------------------------

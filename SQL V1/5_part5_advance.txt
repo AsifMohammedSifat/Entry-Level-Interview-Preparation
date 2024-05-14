@@ -1,0 +1,50 @@
+FROM
+
+JOIN
+
+where
+
+group by
+
+having
+
+select
+
+distinct
+
+order by
+
+limit
+
+USE dummydb;
+
+-- Display maximum salary form emp table
+SELECT MAX(salary) AS "MAX SALARY" FROM employees;
+
+-- display the name of employee who is taking maximum salary
+
+SELECT first_name FROM employees WHERE salary = (SELECT MAX(salary) AS "MAX SALARY" FROM employees);
+
+
+SELECT * FROM employees
+WHERE salary IN (17000,24000);
+
+SELECT * FROM employees
+WHERE salary between 10000 and 24000;
+
+
+-- second highest salary
+SELECT MAX(salary) FROM employees WHERE salary <>
+	(SELECT MAX(salary) AS "MAX SALARY" FROM employees);
+    
+-- Count the number of employee of each dept
+
+SELECT department_id,COUNT(*)
+	FROM employees
+		GROUP BY department_id
+			HAVING COUNT(*) >2;
+
+-- find the departmnet which dont have any employee
+
+SELECT department_id FROM departments WHERE EXISTS
+(SELECT department_id FROM employees WHERE employees.department_id = departments.department_id);

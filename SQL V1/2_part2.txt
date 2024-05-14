@@ -1,0 +1,32 @@
+SQL (Structured Query Language) itself is a standard language for managing and manipulating relational databases. 
+There are different types or categories of SQL statements based on their purposes. 
+Here are some common types of SQL statements:
+
+Data Query Language (DQL):
+-------------------------------------------
+Used to query the database and retrieve data.
+Examples: SELECT
+
+
+Data Definition Language (DDL):
+-------------------------------------------
+Used to define and manage the structure of a database.
+Examples: CREATE, ALTER, DROP
+
+Data Manipulation Language (DML):
+-------------------------------------------
+Used to manipulate data stored in the database.
+Examples: INSERT, UPDATE, DELETE
+
+Data Control Language (DCL):
+-------------------------------------------
+Used to control access to data within the database.
+Examples: GRANT, REVOKE
+
+Transaction Control Language (TCL):
+-------------------------------------------
+Used to manage transactions within a database.
+Examples: COMMIT, ROLLBACK, SAVEPOINT
+These categories cover the primary types of SQL statements. SQL is used across various relational database management systems (RDBMS), and while the core syntax is generally consistent, there might be slight variations or additional features specific to each database system (e.g., MySQL, PostgreSQL, Oracle, SQL Server). The specific SQL dialect can vary, and certain databases may have their own extensions or proprietary features beyond the standard SQL.
+
+========================================================================================================================
