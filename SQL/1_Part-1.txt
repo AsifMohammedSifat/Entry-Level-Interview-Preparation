@@ -1,13 +1,13 @@
 1) Data vs Information
 2) Database and Types of Database
-3) Table, Record, Field,Value
-4) DBMS,RDBMS
-5) Key, Primary Key,Foreign Key
+3) Table, Record, Field, Value
+4) DBMS, RDBMS
+5) Key, Primary Key, Foreign Key
 6) Relation
 
 ==================================================================================================================
 1) Data vs Information
-Ans: Data is raw fact and A set of organize data is called information.
+Ans: Data is raw fact and A set of organized data is called information.
 ==================================================================================================================
 
 
@@ -16,9 +16,9 @@ Ans: Data is raw fact and A set of organize data is called information.
 Ans: Database: System to keep data also we can
      -keep
      -Manage(modify,update,delete)
-     -Retrive(fetch)
+     -Retrieve(fetch)
 
-Types of Databse:
+Types of Database:
 Relational Database Management System (RDBMS):
 -----------------------------------------------
 Examples: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
@@ -66,7 +66,7 @@ Stores data in the form of objects, making it suitable for applications with com
 
 Cloud Database:
 -----------------------------------------------
-Examples: Amazon Aurora, Google Cloud Firestore.
+Examples: Amazon Aurora, and Google Cloud Firestore.
 Hosted on cloud platforms, offering scalability, flexibility, and ease of management.
 ==================================================================================================================
 
@@ -74,12 +74,12 @@ Hosted on cloud platforms, offering scalability, flexibility, and ease of manage
 
 
 
-3) Table, Record, Field,Value:
+3) Table, Record, Field, Value:
 Ans:
 Table: a set of data
 Record: Row of a table
 Field: Column name of a table
-value: data stored in table
+value: data stored in a table
 
 
 In the context of Database Management Systems (DBMS), a "value" typically refers to the actual data stored in a database. In a relational database, data is organized into tables, and each table consists of rows and columns. Each intersection of a row and a column represents a specific data point, and this data point is the "value."
@@ -109,11 +109,11 @@ In this table, each cell represents a value. For instance, the value in the "Fir
 
 
 
-4) DBMS,RDBMS
+4) DBMS, RDBMS
 DBMS: 
 -data
 -user
--hardware(computer,ram,rom,pendrive)
+-hardware(computer,ram,rom,Pendrive)
 -software(software - RDBMS)
 -processing unit
 
@@ -147,7 +147,7 @@ A lightweight, serverless, and self-contained RDBMS that is suitable for embedde
 
 
 
-5) Key, Primary Key,Foreign Key,candidate key,composite key:
+5) Key, Primary Key, Foreign Key, candidate key, composite key:
 
 Key:
 -----------------------------------------------
